@@ -1,0 +1,17 @@
+[
+  {
+    "id": "jilbi",
+    "title": "عالم جليبي",
+    "description": "اكتبي هنا وصفًا قصيرًا للقصة.",
+    "cover": "images/jilbi/cover.jpg",
+    "chapters": [
+      {
+        "title": "الفصل الأول",
+        "pages": [
+          "images/jilbi/ch1/1.jpg",
+          "images/jilbi/ch1/2.jpg"
+        ]
+      }
+    ]
+  }
+]
